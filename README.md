@@ -31,7 +31,9 @@ The contracts folder has been created following the guidelines from Hardhat:
 
 The Celebrity.sol contract is using Tellor to read the celebs price from the Celebrity Bucks data and images cached and transformed locally following the terms of use of the endpoint. [More info](https://celebritybucks.com/developers)
 
-To compile the contract, please run the following command:
+To compile the contract, please run the following commands:
+
+`npm i usingtellor`
 
 `npx hardhat compile`
 
