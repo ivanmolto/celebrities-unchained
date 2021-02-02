@@ -13,6 +13,16 @@ A game is a cool showcase using [Tellor](https://tellor.io) oracle playground to
 Built with love for [Tellor](https://tellor.io) challenge at [Encode Club](https://encode.club) Hack.
 
 
+## Live
+
+[Here it is the game live](https://dfl7kpfn3knmt.cloudfront.net/index.html)
+
+
+## Presentation
+
+[Read more on the presentation](https://github.com/ivanmolto/celebrities-unchained/blob/main/presentation/celebrities-unchained-ivanmolto.pdf)
+
+
 ## Set up
 
 Clone this repo and once in the directory `celebrities-unchained`, please run the following command in your terminal:
