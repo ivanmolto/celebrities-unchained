@@ -2,6 +2,8 @@
 
 A decentralized game based on CelebrityBucks and powered by Tellor.io oracle playground.
 
+Tellor Encode Club Hack 2nd Prize Winner 🏆
+
 Tellor is a decentralized oracle network putting real world data on-chain.
 
 The challenge was to use Tellor Playground and build a project that uses data types Tellor doesn't currently support.
